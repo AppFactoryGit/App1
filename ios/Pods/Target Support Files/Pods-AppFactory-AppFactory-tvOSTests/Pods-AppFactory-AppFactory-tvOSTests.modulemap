@@ -1,0 +1,6 @@
+framework module Pods_AppFactory_AppFactory_tvOSTests {
+  umbrella header "Pods-AppFactory-AppFactory-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
