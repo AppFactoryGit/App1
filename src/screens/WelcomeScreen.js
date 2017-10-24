@@ -7,7 +7,7 @@ import {
 import { connect } from 'react-redux';
 import * as actions from '../actions';
 
-import Slides from '../components/slides';
+import Slides from '../components/slides';[]
 
 const SLIDE_DATA = [
   {
